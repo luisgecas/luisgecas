@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luisgecas
-- 👀 I’m interested in web development using React, Angular, Javascript and Python
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on projects involving web technologies, and languages like Java, Javascript, C++ and Python.
+- 👀 I’m interested in web scraping using Python + Selenium
+- 🌱 I’m currently learning Selenium.
+- 💞️ I’m looking to collaborate on projects involving web scraping using Python + Selenium.
 - 📫 Contact me: luisgecas_78@hotmail.com
 
 <!---
