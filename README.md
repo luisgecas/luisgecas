@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @luisgecas
-- 👀 I’m interested in web scraping using Python + Selenium
-- 🌱 I’m currently learning Selenium.
-- 💞️ I’m looking to collaborate on projects involving web scraping using Python + Selenium.
+👋 Hi, I’m @luisgecas
+👀 I’m interested in:
+      - web scraping using Python + Selenium
+      - No code tools like Bubble and Adalo  
+- 🌱 I’m currently learning Bubble
+- 💞️ I’m looking to collaborate on projects involving no code tools
 - 📫 Contact me: luisgecas_78@hotmail.com
 
 <!---
